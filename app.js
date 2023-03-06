@@ -1,3 +1,3 @@
-function done(){
+function fun(){
     alert('nothing here yet');
 }
